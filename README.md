@@ -1,5 +1,5 @@
-Coursera Getting and Cleaning Data Project Course Project
-=========================================================
+Coursera Getting and Cleaning Data Course Project
+=================================================
 
 This project contains the scripts and documentation required for the
 Coursera Getting and Cleaning Data course project.
